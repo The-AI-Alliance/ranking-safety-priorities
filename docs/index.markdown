@@ -7,7 +7,7 @@ has_children: false
 
 # Ranking Safety Priorities by Domain
 
-| **Authors** | [The AI Alliance Turst and Safety Work Group](https://thealliance.ai/focusareas/trust-and-safety){:target="ai-alliance-tns"} |
+| **Authors** | [The AI Alliance Trust and Safety Work Group](https://thealliance.ai/focusareas/trust-and-safety){:target="ai-alliance-tns"} |
 | **History** | V0.0.1, 2024-09-25 |
 
 Welcome to the **The AI Alliance** Project for **Ranking Safety Priorities by Domain**.
@@ -36,12 +36,12 @@ Additional links:
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
 * [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}
-* [This Guide's GitHub Repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="aseg-repo"}
+* [This Guide's GitHub Repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="rsp-repo"}
 
 <!--
 These are nice looking buttons, but using a "gratuitously different" way to show links doesn't really work...
 -->
 <!--
-[The AI Alliance](https://thealliance.ai){:target="ai-alliance" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph} [GitHub Repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="aseg-repo" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph}
+[The AI Alliance](https://thealliance.ai){:target="ai-alliance" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph} [GitHub Repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="rsp-repo" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph}
 -->
 
