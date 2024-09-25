@@ -10,7 +10,7 @@ has_children: false
 | **Authors** | [The AI Alliance Turst and Safety Work Group](https://thealliance.ai/focusareas/trust-and-safety){:target="ai-alliance-tns"} |
 | **History** | V0.0.1, 2024-09-25 |
 
-Welcome to the **The AI Alliance Project for Ranking Safety Priorities by Domain**.
+Welcome to the **The AI Alliance** Project for **Ranking Safety Priorities by Domain**.
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
@@ -24,9 +24,12 @@ We will publish our findings in a "living" guide, one that will evolve over time
 
 Sound interesting? Please see the [contributing]({{site.baseurl}}/contributing) page for information on how you can get involved.
 
-This guide is organized as follows:
+This documentation is organized into research for the following [domains]({{site.baseurl}}/domains/domains):
 
-* TBD
+* [Finance]({{site.baseurl}}/domains/Finance)
+* [Healthcare]({{site.baseurl}}/domains/Healthcare)
+* [Education]({{site.baseurl}}/domains/Education)
+* [Legal]({{site.baseurl}}/domains/Legal)
 
 Additional links:
 

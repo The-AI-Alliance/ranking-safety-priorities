@@ -34,6 +34,7 @@ Coming soon.
 * RedHat
 * ServiceNow
 * Sony Research
+* Technical University of Munich
 * University of Notre Dame
 * University of Utah
 
