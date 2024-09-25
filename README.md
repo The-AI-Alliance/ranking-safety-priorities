@@ -1,6 +1,6 @@
 # README
 
-[Published Website](https://the-ai-alliance.github.io/ranking-safety-priorities/){:target="website"}⬀
+[Published Website](https://the-ai-alliance.github.io/ranking-safety-priorities/)
 
 This repo contains the evolving details of tge AI Alliance project to [Rank Safety Priorities by Domain](https://thealliance.ai/core-projects/safety-priorities-ranking-by-domain), published using [GitHub Pages](https://pages.github.com/). We welcome contributions as PRs. See the AI Alliance [CONTRIBUTING](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) instructions and more specific details in this documentations [contributing](https://the-ai-alliance.github.io/ranking-safety-priorities/contributing) page. Also, you'll need to agree with the AI Alliance [Code of Conduct](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT.md) and all contributions will be covered by the [LICENSE](https://github.com/The-AI-Alliance/community/blob/main/LICENSE) (which is also in [this repo](LICENSE)).
 
