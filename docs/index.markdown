@@ -5,12 +5,12 @@ nav_order: 10
 has_children: false
 ---
 
-# Ranking Safety Priorities by Domain
+# Ranking AI Safety Priorities by Domain
 
 | **Authors** | [The AI Alliance Trust and Safety Work Group](https://thealliance.ai/focusareas/trust-and-safety){:target="ai-alliance-tns"} |
 | **History** | V0.0.1, 2024-09-25 |
 
-Welcome to the **The AI Alliance** Project for **Ranking Safety Priorities by Domain**.
+Welcome to the **The AI Alliance** Project for **Ranking AI Safety Priorities by Domain**.
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
