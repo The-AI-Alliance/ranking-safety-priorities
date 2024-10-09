@@ -11,6 +11,7 @@ has_children: false
 ## Participants
 
 * Cleveland Clinic
+* Technical University of Munich (TUM)
 * ... more coming ...
 
 ## Recent Relevant Material
