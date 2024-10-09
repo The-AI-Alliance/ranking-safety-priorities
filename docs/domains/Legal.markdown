@@ -50,16 +50,16 @@ has_children: false
 
 | **Data** | **Task** | **Test** | **Evaluation** | **License** |
 | :------- | :------- | :------- | :------------- | :---------- | 
-| LegalEval  | document review, case prediction, legal text classification | comprehensive legal tasks | accuracy, efficiency, prediction | [LegalEval.org](https://LegalEval.org) |
-| LawBench | legal research, analysis | research and analysis tasks | accuracy, thoroughness | [LawBench.org](https://LawBench.org) |
+| LegalEval  | document review, case prediction, legal text classification | comprehensive legal tasks | accuracy, efficiency, prediction | [LegalEval.org](https://LegalEval.org){:target="_other"} |
+| LawBench | legal research, analysis | research and analysis tasks | accuracy, thoroughness | [LawBench.org](https://LawBench.org){:target="_other"} |
 | LegalBERT  | various legal tasks | legal tasks evaluation | performance on legal tasks | Hugging Face |
-| CaseLaw  | case law analysis, prediction | case law tasks | prediction accuracy | [CaseLaw.org](https://CaseLaw.org) |
-| DocReview  | document review | review efficiency and accuracy | efficiency, accuracy | [DocReview.org](https://DocReview.org) |
-| ContractAI  | contract generation, analysis | contract tasks | generation accuracy | [ContractAI.org](https://ContractAI.org) |
-| LegalNER  | named entity recognition | entity recognition tasks | recognition accuracy | [LegalNER.org](https://LegalNER.org) |
-| CourtRuling  | court ruling prediction | court ruling tasks | prediction accuracy | [CourtRuling.org](https://CourtRuling.org) |
-| LegalQA  | question answering | legal QA tasks | QA accuracy | [LegalQA.org](https://LegalQA.org) |
-| LegalSummarization  | summarization of legal documents and cases | summarization tasks | summarization quality | [LegalSummarization.org](https://LegalSummarization.org) |
+| CaseLaw  | case law analysis, prediction | case law tasks | prediction accuracy | [CaseLaw.org](https://CaseLaw.org){:target="_other"} |
+| DocReview  | document review | review efficiency and accuracy | efficiency, accuracy | [DocReview.org](https://DocReview.org){:target="_other"} |
+| ContractAI  | contract generation, analysis | contract tasks | generation accuracy | [ContractAI.org](https://ContractAI.org){:target="_other"} |
+| LegalNER  | named entity recognition | entity recognition tasks | recognition accuracy | [LegalNER.org](https://LegalNER.org){:target="_other"} |
+| CourtRuling  | court ruling prediction | court ruling tasks | prediction accuracy | [CourtRuling.org](https://CourtRuling.org){:target="_other"} |
+| LegalQA  | question answering | legal QA tasks | QA accuracy | [LegalQA.org](https://LegalQA.org){:target="_other"} |
+| LegalSummarization  | summarization of legal documents and cases | summarization tasks | summarization quality | [LegalSummarization.org](https://LegalSummarization.org){:target="_other"} |
 
 ## Applications of GenAI in the Legal Sector
 

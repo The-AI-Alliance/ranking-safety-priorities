@@ -51,25 +51,25 @@ has_children: false
 
 | **Data** | **Task** | **Test** | **Evaluation** | **License** |
 | :------- | :------- | :------- | :------------- | :---------- | 
-| MedicalEval  | patient data analysis, predictive modeling | comprehensive healthcare tasks | accuracy, efficiency, prediction | [MedicalEval.org](https://MedicalEval.org) |
-| HealthBench | healthcare research, diagnostics | research and diagnostics tasks | accuracy, thoroughness | [HealthBench.org](https://HealthBench.org) |
+| MedicalEval  | patient data analysis, predictive modeling | comprehensive healthcare tasks | accuracy, efficiency, prediction | [MedicalEval.org](https://MedicalEval.org){:target="_other"} |
+| HealthBench | healthcare research, diagnostics | research and diagnostics tasks | accuracy, thoroughness | [HealthBench.org](https://HealthBench.org){:target="_other"} |
 | GenomicBERT Benchmark | genomic data analysis, prediction | genomic data evaluation | performance on genomic tasks | Hugging Face |
-| MedImageEval | medical image analysis | image analysis tasks | image analysis accuracy | [MedImageEval.org](https://MedImageEval.org) |
-| ClinicalTrialAI  | clinical trial analysis, predictive modeling | clinical trial tasks | prediction accuracy | [ClinicalTrialAI.org](https://ClinicalTrialAI.org) |
-| PatientCareEval | patient care, treatment planning | care and treatment tasks | care and treatment accuracy | [PatientCareEval.org](https://PatientCareEval.org) |
-| DrugDiscoveryBench | drug discovery, development | drug discovery tasks | discovery process efficiency | [DrugDiscoveryBench.org](https://DrugDiscoveryBench.org) |
-| GenomicEval | genomic analysis, precision medicine | genomic analysis tasks | precision medicine accuracy | [GenomicEval.org](https://GenomicEval.org) |
-| HealthNLP Benchmark | NLP tasks in healthcare | NLP tasks evaluation | NLP performance | [HealthNLP.org](https://HealthNLP.org) |
-| MedImageEval Benchmark | medical image analysis | image analysis tasks | image analysis accuracy | [MedImageEval.org](https://MedImageEval.org) |
-| RadiologyEval | radiology image analysis | radiology-specific tasks | radiology image accuracy | [RadiologyEval.org](https://RadiologyEval.org) |
-| ImageGenAI Benchmark | image generation using AI | AI-based image generation tasks | image generation quality | [ImageGenAI.org](https://ImageGenAI.org) |
-| PathologyImageEval | pathology image analysis | pathology-specific image tasks | pathology image accuracy | [PathologyImageEval.org](https://PathologyImageEval.org) |
-| MRIImageEval | MRI image analysis | MRI-specific image tasks | MRI image accuracy | [MRIImageEval.org](https://MRIImageEval.org) |
-| CTScanEval | CT scan analysis | CT-specific image tasks | CT scan accuracy | [CTScanEval.org](https://CTScanEval.org) |
-| XRayImageEval | X-ray image analysis | X-ray-specific image tasks | X-ray image accuracy | [XRayImageEval.org](https://XRayImageEval.org) |
-| UltrasoundImageEval | ultrasound image analysis | ultrasound-specific image tasks | ultrasound image accuracy | [UltrasoundImageEval.org](https://UltrasoundImageEval.org) |
-| PETScanEval | PET scan analysis | PET-specific image tasks | PET scan accuracy | [PETScanEval.org](https://PETScanEval.org) |
-| MedicalImageSynthesisEval | medical image synthesis | image synthesis tasks | synthesis quality | [MedicalImageSynthesisEval.org](https://MedicalImageSynthesisEval.org) |
+| MedImageEval | medical image analysis | image analysis tasks | image analysis accuracy | [MedImageEval.org](https://MedImageEval.org){:target="_other"} |
+| ClinicalTrialAI  | clinical trial analysis, predictive modeling | clinical trial tasks | prediction accuracy | [ClinicalTrialAI.org](https://ClinicalTrialAI.org){:target="_other"} |
+| PatientCareEval | patient care, treatment planning | care and treatment tasks | care and treatment accuracy | [PatientCareEval.org](https://PatientCareEval.org){:target="_other"} |
+| DrugDiscoveryBench | drug discovery, development | drug discovery tasks | discovery process efficiency | [DrugDiscoveryBench.org](https://DrugDiscoveryBench.org){:target="_other"} |
+| GenomicEval | genomic analysis, precision medicine | genomic analysis tasks | precision medicine accuracy | [GenomicEval.org](https://GenomicEval.org){:target="_other"} |
+| HealthNLP Benchmark | NLP tasks in healthcare | NLP tasks evaluation | NLP performance | [HealthNLP.org](https://HealthNLP.org){:target="_other"} |
+| MedImageEval Benchmark | medical image analysis | image analysis tasks | image analysis accuracy | [MedImageEval.org](https://MedImageEval.org){:target="_other"} |
+| RadiologyEval | radiology image analysis | radiology-specific tasks | radiology image accuracy | [RadiologyEval.org](https://RadiologyEval.org){:target="_other"} |
+| ImageGenAI Benchmark | image generation using AI | AI-based image generation tasks | image generation quality | [ImageGenAI.org](https://ImageGenAI.org){:target="_other"} |
+| PathologyImageEval | pathology image analysis | pathology-specific image tasks | pathology image accuracy | [PathologyImageEval.org](https://PathologyImageEval.org){:target="_other"} |
+| MRIImageEval | MRI image analysis | MRI-specific image tasks | MRI image accuracy | [MRIImageEval.org](https://MRIImageEval.org){:target="_other"} |
+| CTScanEval | CT scan analysis | CT-specific image tasks | CT scan accuracy | [CTScanEval.org](https://CTScanEval.org){:target="_other"} |
+| XRayImageEval | X-ray image analysis | X-ray-specific image tasks | X-ray image accuracy | [XRayImageEval.org](https://XRayImageEval.org){:target="_other"} |
+| UltrasoundImageEval | ultrasound image analysis | ultrasound-specific image tasks | ultrasound image accuracy | [UltrasoundImageEval.org](https://UltrasoundImageEval.org){:target="_other"} |
+| PETScanEval | PET scan analysis | PET-specific image tasks | PET scan accuracy | [PETScanEval.org](https://PETScanEval.org){:target="_other"} |
+| MedicalImageSynthesisEval | medical image synthesis | image synthesis tasks | synthesis quality | [MedicalImageSynthesisEval.org](https://MedicalImageSynthesisEval.org){:target="_other"} |
 
 ## Applications of GenAI in Healthcare
 
