@@ -2,11 +2,14 @@
 
 [Published Website](https://the-ai-alliance.github.io/ranking-safety-priorities/)
 
-This repo contains the evolving details of tge AI Alliance project to [Rank Safety Priorities by Domain](https://thealliance.ai/core-projects/safety-priorities-ranking-by-domain), published using [GitHub Pages](https://pages.github.com/). We welcome contributions as PRs. See the AI Alliance [CONTRIBUTING](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) instructions and more specific details in this documentations [contributing](https://the-ai-alliance.github.io/ranking-safety-priorities/contributing) page. Also, you'll need to agree with the AI Alliance [Code of Conduct](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT.md) and all contributions will be covered by the [LICENSE](https://github.com/The-AI-Alliance/community/blob/main/LICENSE) (which is also in [this repo](LICENSE)).
+
+This repo contains the AI Alliance _Understanding AI Trust and Safety: A Living Guide_, published using [GitHub Pages](https://pages.github.com/). We welcome contributions as PRs. See the AI Alliance [CONTRIBUTING](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) instructions. Also, you'll need to agree with the AI Alliance [Code of Conduct](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT.md) and all contributions will be covered by the [LICENSE](https://github.com/The-AI-Alliance/community/blob/main/LICENSE) (which is also in [this repo](LICENSE)).
 
 > This work is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, see [LICENSE](LICENSE) or visit https://creativecommons.org/licenses/by/4.0/legalcode.
 
-## Contributing New or Improved Content
+## Contributing New or Improved Web Site Content
+
+First, thank you for your interest in improving this content!. Please see our [Alliance contributing page](https://github.com/The-AI-Alliance/community/) for general information about contributing to any of our projects. This section provides some specific details you need to know.
 
 What gets displayed by GitHub Pages is the customized Markdown files in the `docs` directory. If you need to create a new page, copy an existing page to get the correct "header" information, then edit as needed.
 
@@ -17,7 +20,7 @@ Here are some things you should know.
 > [!WARNING]
 > Before you make any git commits with changes, understand what's required for DCO.
 
-See the [Alliance contributing guide](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md#developer-certificate-of-origin) for details. In practical terms, supporting this requirement means you must use the `-s` flag with your `git commit` commands.
+See the Alliance contributing guide [section on DCO](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md#developer-certificate-of-origin) for details. In practical terms, supporting this requirement means you must use the `-s` flag with your `git commit` commands.
 
 ### Using the Correct Branch
 
@@ -25,6 +28,28 @@ As for most Git projects, issue PRs to the `main` branch. However, the repo is a
 
 > [!NOTE]
 > If you are curious, the details of how this publication branch is configured are discussed [below](#configuring-github-pages-in-the-repo-settings).
+
+### Editing Conventions and Tips
+
+#### Links
+
+For internal cross-references, use the conventional `[title]({{site.baseurl}}/relative_URL)` Markdown syntax. 
+
+> [!WARNING]
+> the `{{site.baseurl}}/` prefix is _essential_, because this _prefix_ will be different for local execution vs. published serving.
+
+For external links, add a `target` tag using the following syntax, which works for GitHub Markdown and GitHub Pages.
+
+```markdown
+[title]({{site.baseurl}}/relative_URL){:target="_target"}
+```
+
+The `target` value is arbitrary; use whatever you want. While this is a little more tedious to type, it is usually better for users so they don't lose their place in the document. Also, [our stylesheet](https://github.com/The-AI-Alliance/ranking-safety-priorities/blob/main/docs/_includes/css/custom.scss.liquid) is configured to put the little up-and-to-the-right arrows after every link that isn't relative, i.e., links that start with `http` or `https`. This provides a visual clue that a new tab will be opened.
+
+#### Emojis
+
+In the pages, you can use emojis, e.g., `:+1:` yields :+1:, `:smirk:` yields :smirk:, `:nerd_face:` yields :nerd_face:, etc. The `jemoji` Ruby gem adds this capability. [Here is a list of available emojis](https://www.webfx.com/tools/emoji-cheat-sheet/).
+
 
 ## Quick Setup
 
@@ -95,32 +120,7 @@ Both strings are printed at the bottom of each page, e.g.:
 
 > Version: 1.0.1. Site last modified: Jun 5 2024 08:13 -0500.
 
-## Editing Conventions and Tips
-
-### Links
-
-For internal cross-references, use the conventional `[title]({{site.baseurl}}/relative_URL)` Markdown syntax. 
-
-> [!WARNING]
-> the `{{site.baseurl}}/` prefix is _essential_, because this _prefix_ will be different for local execution vs. published serving.
-
-For external links, add a `target` tag using the following syntax, which works for GitHub Markdown and GitHub Pages.
-
-```markdown
-[title]({{site.baseurl}}/relative_URL){:target="_target"}
-```
-
-The `target` value is arbitrary; use whatever you want. While this is a little more tedious to type, it is usually better for users so they don't lose their place in the document. Also, [our stylesheet](https://github.com/The-AI-Alliance/ranking-safety-priorities/blob/main/docs/_includes/css/custom.scss.liquid) is configured to put the little up-and-to-the-right arrows after every link that isn't relative, i.e., links that start with `http` or `https`. This provides a visual clue that a new tab will be opened.
-
-### Emojis
-
-In the pages, you can use emojis, e.g., `:+1:` yields :+1:, `:smirk:` yields :smirk:, `:nerd_face:` yields :nerd_face:, etc. The `jemoji` Ruby gem adds this capability. [Here is a list of available emojis](https://www.webfx.com/tools/emoji-cheat-sheet/).
-
-## Previewing Your Work Locally
-
-We provided a basic set of instructions above for setting up Jekyll locally. Here is a more detailed set of instructions, if you need them.
-
-### Setup Jekyll
+## Setup Jekyll
 
 First, you'll need a reasonably recent version of Ruby installed. The one that comes with MacOS is _not new enough_. See [Use Homebrew to Install Ruby on MacOS](#use-homebrew-to-install-ruby-on-macos) to install [Homebrew](https://brew.sh) and then Ruby using the `brew` command.
 
