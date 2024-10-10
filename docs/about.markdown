@@ -24,6 +24,8 @@ If you have any questions or concerns about this initiative, please contact us a
 
 See the lists of contributors for each of the [domains]({{site.baseurl}}/domains/domains).
 
+We welcome your contributions. See the [Contributing]({{site.baseurl}}/contributing) page for more information.
+
 ## Other AI Alliance Information
 
 * [More About the AI Alliance](https://thealliance.ai/about-aia){:target="ai-alliance"}
@@ -33,7 +35,3 @@ See the lists of contributors for each of the [domains]({{site.baseurl}}/domains
 ## About This Documentation
 
 This documentation is built with [GitHub Pages](https://pages.github.com/){:target="github-pages"}, which uses [Jekyll](https://github.com/jekyll/jekyll){:target="gh-jekyll"} to serve the website. We use the [Just the Docs](https://just-the-docs.github.io/just-the-docs/){:target="just-the-docs"} Jekyll theme.
-
-### How to Contribute to This Project
-
-We welcome your contributions. See the [Contributing]({{site.baseurl}}/contributing) page for more information.
