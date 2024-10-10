@@ -11,7 +11,6 @@ has_children: false
 ## Participants
 
 * Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="contributors"} 
-* Dean Wampler - [AI Alliance](https://thealliance.ai){:target="contributors"} and [IBM Research](https://research.ibm.com/){:target="contributors"}
 * [Please join us](mailto:contact@thealliance.ai)!!
 
 ## Recent Relevant Material

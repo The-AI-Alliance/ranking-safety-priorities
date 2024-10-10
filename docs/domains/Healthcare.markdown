@@ -10,10 +10,9 @@ has_children: false
 
 ## Participants
 
-* TODO - [Cleveland Clinic](https://my.clevelandclinic.org/)
-* TODO - [Technical University of Munich (TUM)](https://www.tum.de/en/)
+* TBA - [Cleveland Clinic](https://my.clevelandclinic.org/)
+* TBA - [Technical University of Munich (TUM)](https://www.tum.de/en/)
 * Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="contributors"} 
-* Dean Wampler - [AI Alliance](https://thealliance.ai){:target="contributors"} and [IBM Research](https://research.ibm.com/){:target="contributors"}
 * [Please join us](mailto:contact@thealliance.ai)!!
 
 

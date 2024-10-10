@@ -17,6 +17,7 @@ If you have any questions or concerns about this initiative, please contact us a
 ## Maintainers of This Project
 
 * Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="maintainers"} 
+* Jenny Yu - [Himalaya Quantitative Solutions](https://www.himalayaqs.com/){:target="contributors"}
 * Dean Wampler - [AI Alliance](https://thealliance.ai){:target="maintainers"} and [IBM Research](https://research.ibm.com/){:target="maintainers"}
 
 ## Contributing AI Alliance Member Organizations
