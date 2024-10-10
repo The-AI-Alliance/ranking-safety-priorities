@@ -8,7 +8,7 @@ show_contribute_dataset_button: true
 
 # About The AI Alliance
 
-**Ranking AI Safety Priorities by Domain** is a core project managed by the [Trust and Safety Work Group](https://thealliance.ai/focusareas/trust-and-safety){:target="tands"} in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
+**Ranking AI Safety Priorities by Domain** is a core project of the [Trust and Safety Work Group](https://thealliance.ai/focusareas/trust-and-safety){:target="tands"} in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
 
 The AI Alliance is a global collaboration of startups, enterprises, academic, and other research institutions interested in advancing the state of the art, the availability, and the safety of AI technology and uses. The AI Alliance's core projects seek to address substantial cross-community challenges and are an opportunity for contributors to collaborate, build, and make an impact on the future of AI. Core Projects are managed directly by the AI Alliance and governed as described in our [community GitHub repository](https://github.com/The-AI-Alliance/community){:target="community"}. You can find a list of AI Alliance projects on [our website](https://thealliance.ai/our-work){:target="our-work"}.
 
@@ -16,27 +16,12 @@ If you have any questions or concerns about this initiative, please contact us a
 
 ## Maintainers of This Project
 
-Coming soon.
+* Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="maintainers"} 
+* Dean Wampler - [AI Alliance](https://thealliance.ai){:target="maintainers"} and [IBM Research](https://research.ibm.com/){:target="maintainers"}
 
-## Sponsoring AI Alliance Member Organizations
+## Contributing AI Alliance Member Organizations
 
-* Alinia
-* Cleveland Clinic
-* Columbia University
-* Himalaya Quantitative Solutions
-* Humane Intelligence
-* HydroX AI
-* IBM
-* Kakao Corporation
-* Mohamed Bin Zayed University of Artificial Intelligence
-* Meta
-* Neo4J
-* RedHat
-* ServiceNow
-* Sony Research
-* Technical University of Munich
-* University of Notre Dame
-* University of Utah
+See the lists of contributors for each of the [domains]({{site.baseurl}}/domains/domains).
 
 ## Other AI Alliance Information
 

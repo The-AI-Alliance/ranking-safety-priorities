@@ -10,7 +10,9 @@ has_children: false
 
 ## Participants
 
-* TBD
+* Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="maintainers"} 
+* Dean Wampler - [AI Alliance](https://thealliance.ai){:target="maintainers"} and [IBM Research](https://research.ibm.com/){:target="maintainers"}
+* [Please join us](mailto:contact@thealliance.ai)!!
 
 ## Recent Relevant Material
 
