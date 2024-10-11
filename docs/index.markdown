@@ -36,7 +36,7 @@ Additional links:
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
 * [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}
-* [This Guide's GitHub Repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="rsp-repo"}
+* [This Project's GitHub Repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="rsp-repo"}
 
 <!--
 These are nice looking buttons, but using a "gratuitously different" way to show links doesn't really work...
