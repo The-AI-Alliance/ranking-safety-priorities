@@ -10,7 +10,7 @@ has_children: false
 
 ## Participants
 
-* Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="contributors"} 
+* Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="hydrox-ai"} 
 * [Please join us](mailto:contact@thealliance.ai)!!
 
 ## Recent Relevant Material

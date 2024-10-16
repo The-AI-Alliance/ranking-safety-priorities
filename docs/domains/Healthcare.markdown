@@ -10,9 +10,9 @@ has_children: false
 
 ## Participants
 
-* TBA - [Cleveland Clinic](https://my.clevelandclinic.org/)
-* TBA - [Technical University of Munich (TUM)](https://www.tum.de/en/)
-* Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="contributors"} 
+* TBA - [Cleveland Clinic](https://my.clevelandclinic.org/){:target="cc"} 
+* TBA - [Technical University of Munich (TUM)](https://www.tum.de/en/){:target="tum"} 
+* Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="hydrox-ai"} 
 * [Please join us](mailto:contact@thealliance.ai)!!
 
 
