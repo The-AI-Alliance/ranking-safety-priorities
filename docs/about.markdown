@@ -30,7 +30,7 @@ We welcome your contributions. See the [Contributing]({{site.baseurl}}/contribut
 
 * [More About the AI Alliance](https://thealliance.ai/about-aia){:target="ai-alliance"}
 * [Contact Us](mailto:contact@thealliance.ai) (email)
-* Follow us on [LinkedIn](https://www.linkedin.com/company/the-aialliance/){:target="linkedin"} and [X](https://x.com/thealliance_ai){:target="twitter"}
+* Follow us on [LinkedIn](https://www.linkedin.com/company/the-aialliance/){:target="linkedin"}
 
 ## About This Documentation
 
