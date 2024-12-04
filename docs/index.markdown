@@ -8,7 +8,7 @@ has_children: false
 # Ranking AI Safety Priorities by Domain
 
 | **Authors** | [The AI Alliance Trust and Safety Work Group](https://thealliance.ai/focus-areas/trust-and-safety){:target="ai-alliance-tns"} |
-| **History** | V0.0.1, 2024-09-25 |
+| **Last Update** | V0.0.1, 2024-09-25 |
 
 Welcome to the **The AI Alliance** Project for **Ranking AI Safety Priorities by Domain**.
 
@@ -37,6 +37,12 @@ Additional links:
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
 * [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}
 * [This Project's GitHub Repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="rsp-repo"}
+
+### Version History
+
+| Version  | Date       |
+| :------- | :--------- |
+| V0.0.1   | 2024-09-25 |
 
 <!--
 These are nice looking buttons, but using a "gratuitously different" way to show links doesn't really work...
