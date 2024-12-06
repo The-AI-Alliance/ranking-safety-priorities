@@ -12,7 +12,7 @@ has_children: false
 
 * Victor Bian and Zhou Li - [HydroX AI](https://www.hydrox.ai/){:target="hydrox-ai"} 
 * More coming soon.
-* [Please join us](mailto:contact@thealliance.ai)!!
+* [Please join us]({{site.baseurl}}/contributing/#join-our-work-group)!
 
 ## Recent Relevant Material
 

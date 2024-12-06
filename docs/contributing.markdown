@@ -8,9 +8,9 @@ nav_order: 90
 
 We welcome your contributions to our project for domain-ranked safety risks. The sources for this documentation are in [this GitHub repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="rsp-repo"}. 
 
-# Joining the Work Group
+# Join Our Work Group
 
-We are structuring this work group to support people with any level of time and expertise they can contribute. If you want to join our regular meetings, join one of our domain-expert panels, or otherwise contribute, use the form on the [Become a collaborator](https://thealliance.ai/become-a-collaborator){:target="aia-website"} page to let us know your interests. (Click the _Domain Specific Trust and Safety Initiative_ check box...)
+We are structuring this work group to support people with any level of time and expertise they can contribute. If you want to join our regular meetings, join one of our domain-expert panels, or otherwise contribute, use the form on [this page](https://thealliance.ai/working-groups/trust-safety#trust-and-safety-form){:target="join-us"} to let us know your interests. (Mention this project in the _message_ field.)
 
 
 # Making Smaller Contributions
