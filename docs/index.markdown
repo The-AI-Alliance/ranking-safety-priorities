@@ -8,7 +8,7 @@ has_children: false
 # Ranking AI Safety Priorities by Domain
 
 | **Authors** | [The AI Alliance Trust and Safety Work Group](https://thealliance.ai/focus-areas/trust-and-safety){:target="ai-alliance-tns"} |
-| **Last Update** | V0.0.1, 2024-09-25 |
+| **Last Update** | V0.0.2, 2025-02-19 |
 
 Welcome to the **The AI Alliance** Project for **Ranking AI Safety Priorities by Domain**.
 
@@ -24,6 +24,8 @@ We will publish our findings in a "living" guide, one that will evolve over time
 
 Sound interesting? Please see the [contributing]({{site.baseurl}}/contributing) page for information on how you can get involved.
 
+## Domains
+
 This documentation is organized into research for the following [domains]({{site.baseurl}}/domains/domains):
 
 * [Finance]({{site.baseurl}}/domains/Finance)
@@ -31,7 +33,11 @@ This documentation is organized into research for the following [domains]({{site
 * [Education]({{site.baseurl}}/domains/Education)
 * [Legal]({{site.baseurl}}/domains/Legal)
 
-Additional links:
+We are also adding content for other domains as we encounter it:
+
+* [Telecom]({{site.baseurl}}/domains/Telecom)
+
+## Additional Links
 
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
@@ -42,12 +48,6 @@ Additional links:
 
 | Version  | Date       |
 | :------- | :--------- |
+| V0.0.2   | 2025-02-19 |
 | V0.0.1   | 2024-09-25 |
-
-<!--
-These are nice looking buttons, but using a "gratuitously different" way to show links doesn't really work...
--->
-<!--
-[The AI Alliance](https://thealliance.ai){:target="ai-alliance" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph} [GitHub Repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="rsp-repo" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph}
--->
 
