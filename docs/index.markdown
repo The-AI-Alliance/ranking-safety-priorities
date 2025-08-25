@@ -33,9 +33,11 @@ This documentation is organized into research for the following [domains]({{site
 * [Education]({{site.baseurl}}/domains/Education)
 * [Legal]({{site.baseurl}}/domains/Legal)
 
-We are also adding content for other domains as we encounter it:
+We are also adding content for other domains as we encounter them:
 
 * [Telecom]({{site.baseurl}}/domains/Telecom)
+
+The [domains]({{site.baseurl}}/domains/domains) landing page has some additional information about where to find domain-specific datasets and benchmarks.
 
 ## Additional Links
 
@@ -48,6 +50,7 @@ We are also adding content for other domains as we encounter it:
 
 | Version  | Date       |
 | :------- | :--------- |
+| V0.0.5   | 2025-08-25 |
 | V0.0.4   | 2025-08-07 |
 | V0.0.3   | 2025-06-03 |
 | V0.0.2   | 2025-02-19 |
