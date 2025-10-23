@@ -10,7 +10,7 @@ has_children: false
 
 ## Participants
 
-* [Please join us](mailto:contact@thealliance.ai)!!
+* [Please join us](mailto:contact@thealliance.ai?subject=I am interested in the Telecom part of the Ranking AI Safety Priorities by Domain project)!!
 
 ## Recent Relevant Material
 

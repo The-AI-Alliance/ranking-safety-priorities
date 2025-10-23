@@ -19,4 +19,4 @@ You may not have the time or the expertise to be extensively involved, but you c
 
 The [README](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="rsp-repo"} for the source repo explains more details for testing the website locally and for creating more extensive changes as PRs, such as adding new content. The README also describes our "DCO" requirements, which you should understand first.
 
-If you do't have a GitHub account, which is required for posting issues or PRs, then [send us email](mailto:contact@thealliance.ai) with your suggestions.
+If you don't have a GitHub account, which is required for posting issues or PRs, then [send us email](mailto:contact@thealliance.ai?subject=Suggestions for the Ranking AI Safety Priorities by Domain project) with your suggestions.
