@@ -2,9 +2,12 @@
 
 [Published Website](https://the-ai-alliance.github.io/ranking-safety-priorities/)
 
+> [!NOTE]
+> Activity on this project is currently paused. If you are interested in working with us on this project, [contact us](mailto:contact@thealliance.ai).
+
 This repo contains the AI Alliance _Understanding AI Trust and Safety: A Living Guide_, published using [GitHub Pages](https://pages.github.com/). We welcome contributions as PRs. See the AI Alliance [CONTRIBUTING](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) instructions. Also, you'll need to agree with the AI Alliance [Code of Conduct](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT.md) and all contributions will be covered by the [LICENSE](https://github.com/The-AI-Alliance/community/blob/main/LICENSE) (which is also in [this repo](LICENSE)).
 
-> This work is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, see [LICENSE](LICENSE) or visit https://creativecommons.org/licenses/by/4.0/legalcode.
+This work is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, see [LICENSE](LICENSE) or visit https://creativecommons.org/licenses/by/4.0/legalcode.
 
 ## Contributing New or Improved Web Site Content
 

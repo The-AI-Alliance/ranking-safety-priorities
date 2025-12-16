@@ -12,6 +12,10 @@ has_children: false
 
 Welcome to the **The AI Alliance** Project for **Ranking AI Safety Priorities by Domain**.
 
+{: .note}
+> **NOTE**: Activity on this project is currently paused. If you are interested in working with us on this project, [contact us](mailto:contact@thealliance.ai).
+
+{: .tip}
 > **Tip:** Use the search box at the top of this page to find specific content.
 
 A challenge for software development teams adopting generative AI is making sense of the safety issues that their applications must address. The AI safety ecosystem is broad and growing quickly, making it difficult for these development teams to know where they should focus their efforts. What safety concerns are most important for them to work on first?
