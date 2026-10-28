@@ -2,7 +2,7 @@ name: 📖 Documentation/Website Change
 description: Request changes to documentation or website content  
 title: "[Docs/Website] "  
 labels: documentation  
-assignees: [deanwampler,bnayahu]
+assignees: [deanwampler]
 projects: [The-AI-Alliance/32]
 body:
 - type: checkboxes
